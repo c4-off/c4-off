@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm c4_off</h1>
 <h3 align="center">I'm a backend developer who writes cheats and shit.</h3>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/85/45/f9/8545f969295d410609127ac0cb2595c4.gif" alt="img" width="400"/>
+  <img src="https://github.com/c4-off/c4-off/blob/main/2884f2a734f7b9.gif?raw=true" alt="img" width="400"/>
 </p>
 
 - 🔭 I’m currently working on [Evolution BPM](https://t.me/evobpm)

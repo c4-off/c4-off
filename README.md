@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm c4_off</h1>
-![Logo](https://github.com/c4-off/c4-off/blob/main/32cbe4b6f5ba569169c1d91d4b21504e.gif?raw=true)
+<img src="https://github.com/c4-off/c4-off/blob/main/32cbe4b6f5ba569169c1d91d4b21504e.gif?raw=true" alt="css3" width="400" align="center"/>
 <h3 align="center">I'm a backend developer who writes cheats and shit.</h3>
 
 - 🔭 I’m currently working on [Evolution BPM](https://t.me/evobpm)
